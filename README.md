@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I think I am ExtroverlyIntroverted**
 
+
+<img align="centre" alt="coding2" width="400" src="https://i.pinimg.com/originals/30/a8/04/30a804afd49076337ac83ac4e3d67a27.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhash_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhash_goyal" height="30" width="40" /></a>
