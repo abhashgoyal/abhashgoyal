@@ -35,4 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhashgoyal&show_icons=true&locale=en" alt="abhashgoyal" /></p>
 
+<!-- QUOTE:START -->
+<p align="center"><br><i>Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.</i><br><i>– Winston Churchill.</i><br></p>
+<!-- QUOTE:END -->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhashgoyal&" alt="abhashgoyal" /></p>
