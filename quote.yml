@@ -19,7 +19,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "abhashgoyal"
-          git config --global user.email "contact@gmail.com"
+          git config --global user.email "abhashgoyal200@gmail.com"
           git add -A
           git commit -m "New Quote added"
           git push
