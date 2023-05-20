@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: pull script to get quote
-        uses: abhashgoyal@main
+        uses: abhashgoyal@master
       - name: Commit and push changes
         run: |
           git config --global user.name "abhashgoyal"
