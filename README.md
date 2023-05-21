@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhashgoyal&show_icons=true&locale=en" alt="abhashgoyal" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>"The purpose of our lives is to be happy." </i><br><i>– — Dalai Lama.</i><br></p>
+<p align="center"><br><i>"Fight for your needs." </i><br><i>– — Anonymous.</i><br></p>
 <!-- QUOTE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhashgoyal&" alt="abhashgoyal" /></p>
