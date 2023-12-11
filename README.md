@@ -1,4 +1,3 @@
-![abhash github](https://github.com/abhashgoyal/abhashgoyal/blob/main/abhash%20re%20github.gif)
 
 <h1 align="center">Hi 👋, I'm Abhash Goyal</h1>
 <h3 align="center">A curious Tech Lover from India</h3>
